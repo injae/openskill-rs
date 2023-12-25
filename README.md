@@ -5,6 +5,7 @@ This library is based on the [openskill.js](https://github.com/philihp/openskill
 
 ### Installation
 ```
+# TODO
 cargo install openskill
 ```
 
