@@ -1,8 +1,11 @@
 [package]
 name = "openskill"
-version = "0.1.0"
+version = "0.0.1"
+description = "Rust implementation of OpenSkill (license free TrueSkill)"
 edition = "2021"
-
+license = "MIT"
+keywords = ["gamedev", "rating"]
+    
 [dependencies]
 itertools = "0.12.0"
 rand_distr = "0.4.3"
