@@ -1,4 +1,4 @@
-[![Test](https://github.com/injae/openskill-rs/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/injae/openskill-rs/actions/workflows/test.yml)
+[![Test](https://github.com/injae/openskill-rs/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/injae/openskill-rs/actions/workflows/test.yml)
 ## Description
 Rust Implementation of the [Weng-Lin Rating](https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf).
 
