@@ -1,15 +1,15 @@
-### Description
+## Description
 Rust Implementation of the [Weng-Lin Rating](https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf).
 
 This library is based on the [openskill.js](https://github.com/philihp/openskill.js) library
 
-### Installation
+## Installation
 ```
 # TODO
 cargo install openskill
 ```
 
-### Usage
+## Usage
 ```rust
 use openskill::prelude::*;
 
