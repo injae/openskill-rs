@@ -1,5 +1,6 @@
 # Openskill-RS
 
+![Crates.io Version](https://img.shields.io/crates/v/openskill?link=https%3A%2F%2Fcrates.io%2Fcrates%2Fopenskill) ![Crates.io License](https://img.shields.io/crates/l/openskill)
 [![Test](https://github.com/injae/openskill-rs/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/injae/openskill-rs/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/injae/openskill-rs/graph/badge.svg?token=L6FZDENSXN)](https://codecov.io/gh/injae/openskill-rs)
 ## Description
 Rust Implementation of the [Weng-Lin Rating](https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf).
