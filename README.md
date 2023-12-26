@@ -1,6 +1,6 @@
 # Openskill-RS
 
-[![Test](https://github.com/injae/openskill-rs/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/injae/openskill-rs/actions/workflows/test.yml)
+[![Test](https://github.com/injae/openskill-rs/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/injae/openskill-rs/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/injae/openskill-rs/graph/badge.svg?token=L6FZDENSXN)](https://codecov.io/gh/injae/openskill-rs)
 ## Description
 Rust Implementation of the [Weng-Lin Rating](https://www.csie.ntu.edu.tw/~cjlin/papers/online_ranking/online_journal.pdf).
 
